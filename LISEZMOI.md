@@ -1,16 +1,18 @@
-# Delphi-Projects-Template
+# Librairie de traduction pour Delphi (DLT)
 
 [This page in english.](README.md)
 
-Un modèle de dépôt git pour mes projets Delphi (ou autres).
+Vous trouverez dans ce dépôt de code des outils (unités et projets) permettant de traduire automatiquement à l'utilisation ou manuellement vos projets développés en Object Pascal sous Delphi.
 
-Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.
+La première version de cette librairie a été réalisée pour la conférence en ligne [DelphiCon 2023](https://lp.embarcadero.com/DelphiCon2023) afin de présenter une solution de localisation automatique d'un projet FMX ou VCL en passant par l'API REST de traduction de [DeepL](https://www.deepl.com) dont [une librairie cliente](https://github.com/DeveloppeurPascal/DeepL-Delphi-client) existe pour Delphi.
+
+La compatibilité ascendante étant une de mes priorités lorsque je développe, vous ne devriez pas avoir de problème à utiliser ce qui est actuellemet téléchargeable même si de nombreuses évolutions y seront ajoutées dans un futur plus ou moins proche.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Installation
 
-Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/Delphi-Translation-Library).
 
 **Attention :** si le projet utilise des dépendances sous forme de sous modules ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
 
@@ -18,12 +20,11 @@ Pour télécharger ce projet il est recommandé de passer par "git" mais vous po
 
 Ce dépôt de code dépend des dépôts suivants :
 
-* project 1
-* project 2
+* aucun
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/Delphi-Translation-Library) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/Delphi-Translation-Library/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 
