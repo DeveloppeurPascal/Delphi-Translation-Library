@@ -4,7 +4,7 @@
 
 Vous trouverez dans ce dépôt de code des outils (unités et projets) permettant de traduire automatiquement à l'utilisation ou manuellement vos projets développés en Object Pascal sous Delphi.
 
-La première version de cette librairie a été réalisée pour la conférence en ligne [DelphiCon 2023](https://lp.embarcadero.com/DelphiCon2023) afin de présenter une solution de localisation automatique d'un projet FMX ou VCL en passant par l'API REST de traduction de [DeepL](https://www.deepl.com) dont [une librairie cliente](https://github.com/DeveloppeurPascal/DeepL-Delphi-client) existe pour Delphi.
+La première version de cette librairie a été réalisée pour la conférence en ligne [DelphiCon 2023](https://www.embarcadero.com/products/delphi/delphicon-2023) afin de présenter une solution de localisation automatique d'un projet FMX ou VCL en passant par l'API REST de traduction de [DeepL](https://www.deepl.com) dont [une librairie cliente](https://github.com/DeveloppeurPascal/DeepL-Delphi-client) existe pour Delphi.
 
 La compatibilité ascendante étant une de mes priorités lorsque je développe, vous ne devriez pas avoir de problème à utiliser ce qui est actuellemet téléchargeable même si de nombreuses évolutions y seront ajoutées dans un futur plus ou moins proche.
 
@@ -30,7 +30,7 @@ Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu
 
 Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Modèle de licence double (seulement pour mes projets, pas pour ce modèle de dépôt de code)
+## Modèle de licence double
 
 Ce projet est distribué sous licence [AGPL 3.0 ou ultérieure] (https://choosealicense.com/licenses/agpl-3.0/).
 
