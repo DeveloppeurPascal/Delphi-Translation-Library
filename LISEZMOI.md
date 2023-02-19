@@ -4,7 +4,7 @@
 
 Vous trouverez dans ce dépôt de code des outils (unités et projets) permettant de traduire automatiquement à l'utilisation ou manuellement vos projets développés en Object Pascal sous Delphi.
 
-La première version de cette librairie a été réalisée pour la conférence en ligne [DelphiCon 2023](https://www.embarcadero.com/products/delphi/delphicon-2023) afin de présenter une solution de localisation automatique d'un projet FMX ou VCL en passant par l'API REST de traduction de [DeepL](https://www.deepl.com) dont [une librairie cliente](https://github.com/DeveloppeurPascal/DeepL-Delphi-client) existe pour Delphi.
+La première version de cette librairie a été réalisée pour la conférence en ligne [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) afin de présenter une solution de localisation automatique d'un projet FMX ou VCL en passant par l'API REST de traduction de [DeepL](https://www.deepl.com) dont [une librairie cliente](https://github.com/DeveloppeurPascal/DeepL-Delphi-client) existe pour Delphi.
 
 La compatibilité ascendante étant une de mes priorités lorsque je développe, vous ne devriez pas avoir de problème à utiliser ce qui est actuellemet téléchargeable même si de nombreuses évolutions y seront ajoutées dans un futur plus ou moins proche.
 
