@@ -1,19 +1,21 @@
-# Delphi-Projects-Template
+# Librairie de traduction pour Delphi (DLT)
 
 [This page in English.](README.md)
 
-**Un modèle de dépôt git pour mes projets Delphi (ou autres).**
+Vous trouverez dans ce dépôt de code des outils (unités et projets) permettant de traduire automatiquement à l'utilisation ou manuellement vos projets développés en Object Pascal sous Delphi.
 
-**Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.**
+La première version de cette librairie a été réalisée pour la conférence en ligne [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) afin de présenter une solution de localisation automatique d'un projet FMX ou VCL en passant par l'API REST de traduction de [DeepL](https://www.deepl.com) dont [une librairie cliente](https://github.com/DeveloppeurPascal/DeepL4Delphi) existe pour Delphi.
+
+La compatibilité ascendante étant une de mes priorités lorsque je développe, vous ne devriez pas avoir de problème à utiliser ce qui est actuellemet téléchargeable même si de nombreuses évolutions y seront ajoutées dans un futur plus ou moins proche.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Présentations et conférences
 
-### XXX 2024
+### DelphiCon 2023
 
-* [talk title](talk url) (en anglais)
-* [talk title](talk url) (en français)
+* [Automatically Translate Your Programs With DeepL API](https://serialstreameur.fr/automatically-translate-your-programs-with-deepl-api.html) (in English)
+* [Traduire automatiquement ses logiciels avec DeepL et WebBroker](https://serialstreameur.fr/traduire-automatiquement-ses-logiciels-avec-deepl-et-webbroker.html) (in French)
 
 ### Twitch
 
@@ -35,12 +37,11 @@ Vous pouvez aussi [consulter le site du logiciel](EEE) pour en savoir plus sur s
 
 ## Installation des codes sources
 
-Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/Delphi-Translation-Library).
 
 Ce projet utilise des dépendances sous forme de sous modules. Ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
 
-* [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
-* [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
+* aucune
 
 ## Compatibilité
 
@@ -50,7 +51,7 @@ Normalement mes librairies et composants doivent aussi fonctionner au moins sur 
 
 Aucune garantie de compatibilité avec des versions antérieures n'est fournie même si je m'efforce de faire du code propre et ne pas trop utiliser les nouvelles façons d'écrire dedans (type inference, inline var et multilines strings).
 
-Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues) pour que je teste et tente de corriger ou fournir un contournement.
+Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/Delphi-Translation-Library/issues) pour que je teste et tente de corriger ou fournir un contournement.
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
@@ -69,7 +70,7 @@ Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisa
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/Delphi-Translation-Library) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/Delphi-Translation-Library/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 

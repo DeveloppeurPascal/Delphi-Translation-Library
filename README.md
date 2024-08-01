@@ -1,19 +1,21 @@
-# Delphi-Projects-Template
+# Delphi Translation Library (DLT)
 
 [Cette page en français.](LISEZMOI.md)
 
-**A git repository template for my Delphi (or other) projects.**
+You will find in this code repository tools (units and projects) allowing to automatically or manually translate your projects developed in Object Pascal under Delphi.
 
-**This template is distributed under the MIT license. The AGPL license is for the projects I create from this code repository template. Use whatever license you want if you use this template.**
+The first version of this library was made for the online conference [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) in order to present a solution to automatically localize a FMX or VCL project through the translation REST API of [DeepL](https://www.deepl.com) of which [a client library](https://github.com/DeveloppeurPascal/DeepL4Delphi) exists for Delphi.
+
+Backward compatibility being one of my priorities when I develop, you should have no problem to use what is currently downloadable even if many evolutions will be added in a more or less near future.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Talks and conferences
 
-### XXX 2024
+### DelphiCon 2023
 
-* [talk title](talk URL) (in English)
-* [talk title](talk URL) (in French)
+* [Automatically Translate Your Programs With DeepL API](https://serialstreameur.fr/automatically-translate-your-programs-with-deepl-api.html) (in English)
+* [Traduire automatiquement ses logiciels avec DeepL et WebBroker](https://serialstreameur.fr/traduire-automatiquement-ses-logiciels-avec-deepl-et-webbroker.html) (in French)
 
 ### Twitch
 
@@ -35,12 +37,11 @@ You can also [visit the software website](EEE) to find out more about how it wor
 
 ## Source code installation
 
-To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/Delphi-Translation-Library).
 
 This project uses dependencies in the form of sub-modules. They will be absent from the ZIP file. You'll have to download them by hand.
 
-* [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
-* [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
+* none
 
 ## Compatibility
 
@@ -50,7 +51,7 @@ Normally, my libraries and components should also run on at least the current ve
 
 There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it (type inference, inline var and multiline strings).
 
-If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues) so that I can test and try to correct or provide a workaround.
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/Delphi-Translation-Library/issues) so that I can test and try to correct or provide a workaround.
 
 ## License to use this code repository and its contents
 
@@ -69,7 +70,7 @@ Certain elements included in this repository may be subject to third-party usage
 
 ## How to ask a new feature, report a bug or a security issue ?
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/Delphi-Translation-Library) and [open a new issue](https://github.com/DeveloppeurPascal/Delphi-Translation-Library/issues).
 
 If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 
