@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="Window Styles" value="0x800227">
+    </OBJECT>
+    <UL>      <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="tempprojectfordoctoremove">
+          <param name="Local" value="tempprojectfordoctoremove.html">
+          </OBJECT>
+          <UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="Olf.FMX.Translate">
+                  <param name="Local" value="Olf.FMX.Translate.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TOlfTranslateProject">
+                                  <param name="Local" value="Olf.FMX.Translate.TOlfTranslateProject.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TranslateProjectForms">
+                                                  <param name="Local" value="Olf.FMX.Translate.TOlfTranslateProject.TranslateProjectForms.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="Olf.RTL.Translate">
+                  <param name="Local" value="Olf.RTL.Translate.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TOlfTranslate">
+                                  <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CurrentLanguage">
+                                                  <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.CurrentLanguage.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="DefaultLanguage">
+                                                  <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.DefaultLanguage.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TranslationServerURL">
+                                                  <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.TranslationServerURL.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="getText">
+                                                  </OBJECT>
+                                                  <UL>
+                                                      <LI> <OBJECT type="text/sitemap">
+                                                          <param name="Name" value="getText(string,string,TOlfGetTextAfterEvent)">
+                                                          <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.getText(string,string,TOlfGetTextAfterEvent).html">
+                                                          </OBJECT>
+                                                      <LI> <OBJECT type="text/sitemap">
+                                                          <param name="Name" value="getText(string,TOlfGetTextAfterEvent)">
+                                                          <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.getText(string,TOlfGetTextAfterEvent).html">
+                                                          </OBJECT>
+                                                      <LI> <OBJECT type="text/sitemap">
+                                                          <param name="Name" value="getText(string,string,TOlfGetTextAfterProc)">
+                                                          <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.getText(string,string,TOlfGetTextAfterProc).html">
+                                                          </OBJECT>
+                                                      <LI> <OBJECT type="text/sitemap">
+                                                          <param name="Name" value="getText(string,TOlfGetTextAfterProc)">
+                                                          <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.getText(string,TOlfGetTextAfterProc).html">
+                                                          </OBJECT>
+                                                  </UL>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="onLanguageChangedEvent">
+                                                  <param name="Local" value="Olf.RTL.Translate.TOlfTranslate.onLanguageChangedEvent.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Interfaces">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="IOlfTranslate">
+                                  <param name="Local" value="Olf.RTL.Translate.IOlfTranslate.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TranslateTexts">
+                                                  <param name="Local" value="Olf.RTL.Translate.IOlfTranslate.TranslateTexts.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Delegates">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TOlfGetTextAfterEvent">
+                                  <param name="Local" value="Olf.RTL.Translate.TOlfGetTextAfterEvent.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TOlfGetTextAfterProc">
+                                  <param name="Local" value="Olf.RTL.Translate.TOlfGetTextAfterProc.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Invoke">
+                                                  <param name="Local" value="Olf.RTL.Translate.TOlfGetTextAfterProc.Invoke.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="Olf.VCL.Translate">
+                  <param name="Local" value="Olf.VCL.Translate.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TOlfTranslateProject">
+                                  <param name="Local" value="Olf.VCL.Translate.TOlfTranslateProject.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TranslateProjectForms">
+                                                  <param name="Local" value="Olf.VCL.Translate.TOlfTranslateProject.TranslateProjectForms.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                  </UL>
+          </UL>
+    </UL>
+</BODY>
+</HTML>
