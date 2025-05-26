@@ -1,38 +1,38 @@
-/// <summary>
-/// ***************************************************************************
-///
-/// Delphi Translation Library (DLT)
-///
-/// Copyright 2023-2024 Patrick Prémartin under AGPL 3.0 license.
-///
-/// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-/// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-/// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-/// THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-/// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-/// FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-/// DEALINGS IN THE SOFTWARE.
-///
-/// ***************************************************************************
-///
-/// Library and tools to translate Delphi projects contents
-///
-/// ***************************************************************************
-///
-/// Author(s) :
-///      Patrick PREMARTIN
-///
-/// Site :
-///      https://serialstreameur.fr/automatically-translate-your-programs-with-deepl-api.html
-///
-/// Project site :
-///      https://github.com/DeveloppeurPascal/Delphi-Translation-Library
-///
-/// ***************************************************************************
-/// File last update : 04/08/2024 08:23:43
-/// Signature : 5603208c5b62e8c6b64615ec6701dcfced23415f
-/// ***************************************************************************
-/// </summary>
+(* C2PP
+  ***************************************************************************
+
+  Delphi Translation Library (DLT)
+
+  Copyright 2023-2025 Patrick Prémartin under AGPL 3.0 license.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+  ***************************************************************************
+
+  Library and tools to translate Delphi projects contents
+
+  ***************************************************************************
+
+  Author(s) :
+  Patrick PREMARTIN
+
+  Site :
+  https://translationlib.developpeur-pascal.fr/
+
+  Project site :
+  https://github.com/DeveloppeurPascal/Delphi-Translation-Library
+
+  ***************************************************************************
+  File last update : 2025-02-09T11:03:46.432+01:00
+  Signature : 52b7f16236af164bfdb8cf52c8a6599857afd9a2
+  ***************************************************************************
+*)
 
 unit Olf.RTL.Translate;
 
